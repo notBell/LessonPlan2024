@@ -1,5 +1,5 @@
-# Lesson Plan Template
-This file serves as the primary lesson plan document for the repository.
+# Python Lesson
+Here is a test of the system at CSTA 2024 in Vegas.  Good times.
 
 ## Template Description
 [Click here for more information about what this template repository contains.](TemplateDescription.md)
